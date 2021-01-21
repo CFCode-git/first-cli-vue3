@@ -1,5 +1,9 @@
 # cli-vue3-2
 
+create by vue-cli
+
+`vue create <project name>`
+
 ## Project setup
 ```
 yarn install
